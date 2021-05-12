@@ -17,6 +17,8 @@
 <strong>      Created by- Garima Negi </strong> 
 ## <li> Feature2- Calendar API </li>
 <strong>      Created by- Garima Negi </strong> 
+## <li> Feature3- Registration and Login</li>
+<strong>      Created by- Manjushree RM </strong>
 
 # [Project Features Guide.docx](https://github.com/gn32/FinalProject-WebApplication/files/6463191/Project.Features.Guide.docx)
 <strong>      Created by- Garima Negi </strong> 
